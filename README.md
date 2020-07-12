@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **muthuhariharanm/muthuhariharanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+CS undergrad at College of Engineering Guindy skilled at C++, Python, and loves to
+explore new stuff. Loves being involved in projects from multiple domains,
+having the confidence to face new challenges to arrive at solutions for various problems.
+
+#### More about me on!
+- [My Portfolio](https://muthuhariharanm.github.io)
+- [Linkedin](https://linkedin.com/in/muthuhariharanm)
