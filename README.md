@@ -19,5 +19,5 @@ explore new stuff. Loves being involved in projects from multiple domains,
 having the confidence to face new challenges to arrive at solutions for various problems.
 
 #### More about me on!
-- [muthuhariharanm@github.io](https://muthuhariharanm.github.io)
+- [muthuhariharanm.github.io](https://muthuhariharanm.github.io)
 - [Linkedin](https://linkedin.com/in/muthuhariharanm)
