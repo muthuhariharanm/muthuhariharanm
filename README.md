@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-CS undergrad at College of Engineering Guindy skilled at C++, Python, and loves to
-explore new stuff. Loves being involved in projects from multiple domains,
-having the confidence to face new challenges to arrive at solutions for various problems.
+An Enthusiastic developer who loves to explore new stuff. 
+Loves being involved in projects from multiple domains, having the confidence to face new challenges to arrive at solutions for various problems.
 
 #### More about me on!
 - [Linkedin](https://linkedin.com/in/muthuhariharanm)
